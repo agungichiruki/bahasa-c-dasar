@@ -1,1 +1,1 @@
-# Dasar-Dasar Pemprograman Bahasa C
+# Dasar-Dasar Bahasa Pemprograman C
